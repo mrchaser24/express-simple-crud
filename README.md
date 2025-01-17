@@ -3,7 +3,7 @@
 Just a very simple Express CRUD
 
 ## To start
-`sh
+`` sh
 npm i
 npm nodemon
-`
+``
